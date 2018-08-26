@@ -1,1 +1,1 @@
-# Projects
+# Solutions for coding problems
